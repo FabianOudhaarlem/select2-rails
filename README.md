@@ -12,7 +12,7 @@ The `select2-rails` gem integrates the `Select2` jQuery plugin with the Rails as
 
 Add `select2-rails` to your Gemfile and run `bundle install`:
 
-	gem "select2-rails"
+	gem 'select2-rails'
 
 ### Include select2-rails javascript assets
 
